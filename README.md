@@ -1,4 +1,4 @@
-# Pico Computer Simulator#
+# Pico Computer Simulator
 
 Pico Computer Simulator is a C++ library for simulating Pico Computer, a simple computer architecture designed for educational purposes.
 
